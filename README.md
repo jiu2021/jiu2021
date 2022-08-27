@@ -6,12 +6,18 @@ _special_ ✨ repository because its `README.md` (this file) appears on your Git
 Here are some ideas to get you started:
 
 - 👋 I am currently studying at HUST(Huazhong University of Science and Technology).
-- 🔭 I’m currently working on Pivot Studio in Wuhan China.
-- 🌱 I’m currently learning Front-end development and full stack development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 working on Pivot Studio in Wuhan China.
+- 🌱 learning Front-end development and full stack development.
+```
+if(Learn more about me){
+switch (way) {
+  case email: 1358940365@qq.com
+    break;
+  case website: jiu99.online
+    break;
+  default:
+    break;
+}
+}
+```
 
