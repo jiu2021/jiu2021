@@ -5,6 +5,3 @@
 - 🌱 learning Front-end development and full stack development.
 - Learn more about me:
   - website: [jiu99.online](http://jiu99.online)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=jiu2021)
-
