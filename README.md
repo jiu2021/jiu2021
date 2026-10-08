@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 👋 I am currently studying at HUST(Huazhong University of Science and Technology).
-- 🔭 working on Pivot Studio in Wuhan China.
-- 🌱 learning Web development.
-- Learn more about me:
-  - website: [kaji6.top](https://www.kaji6.top)
+- 🎓 I received my Bachelor's degree from **Huazhong University of Science and Technology (HUST)**, where I am currently pursuing my Master's degree.
+- 🔬 My research interests focus on **AI for Networking**, particularly the application of machine learning to network optimization.
+- 🌐 Learn more about me: [kaji6.top](https://www.kaji6.top)
